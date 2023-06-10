@@ -1,0 +1,16 @@
+.poggers{
+   display: flex;
+   justify-content: space-between;
+}
+.card-img{
+    width: 100px;
+    height: 100px;
+}
+.navbar-nav{
+    display: none;
+}
+@media (max-width: 1000px) {
+    .card{
+        flex-direction: column;
+    }
+  }

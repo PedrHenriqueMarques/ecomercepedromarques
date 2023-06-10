@@ -1,0 +1,93 @@
+*{
+  font-size: 1.1rem;
+  font-family: Arial Narrow, sans-serif;
+}
+
+.nav-item{
+  padding: 5px;
+}
+
+.Search{
+  margin-left: 0px;
+}
+#searchButton{
+  margin-right: 0px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.carousel-item img {
+  height: 100vh;
+  object-fit: cover;
+}
+.quickFind{
+  background-color: red;
+}
+.logo{
+  width: 5rem;
+  height: 5rem;
+  transition: 1s;
+}
+main.img {
+  width: 2rem;
+}
+
+.card-body {
+  margin: 1rem;
+  width: 15rem;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+section {
+  margin-bottom: 3rem;
+  
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: red;
+}
+main {
+  margin-bottom: 4rem;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+#carouselExampleIndicators .carousel-inner .carousel-item img {
+  width: 500px;
+  height: 400px;
+}
+
+#carouselExampleIndicators {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.card-img-top{
+  width: 20rem;
+  height: 30rem;
+}
+.card{
+  border: 0.2rem solid black;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.card-img-top{
+  height: 100px;
+  width: 100px;
+  margin-left: 40%;
+}
+
+.logo:hover{
+  scale: 1.1;
+}
+form{
+  display: flex;
+}
